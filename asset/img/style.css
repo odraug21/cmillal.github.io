@@ -17,3 +17,9 @@ h1 {
 .carousel-control-next-icon {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath d='M4.17 5.5a.5.5 0 0 1 .66-.66L9.84 8 4.83 11.16a.5.5 0 1 1-.66.66L9.17 8 4.18 4.84z'/%3e%3c/svg%3e");
 }
+
+#carouselExample {
+    max-width: 300px;
+    max-height: 500px; /* Ajusta este valor a la altura deseada */
+    margin: 0 auto;
+  }
