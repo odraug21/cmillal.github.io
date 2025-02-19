@@ -28,3 +28,7 @@ h1 {
     border: 1px solid black;
     border-collapse: collapse; /* Para combinar los bordes */
 }
+
+body {
+    background-color: rgba(83, 226, 214, 0.055);
+}
