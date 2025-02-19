@@ -23,3 +23,8 @@ h1 {
     max-height: 500px; /* Ajusta este valor a la altura deseada */
     margin: 0 auto;
   }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse; /* Para combinar los bordes */
+}
