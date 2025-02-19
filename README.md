@@ -1,6 +1,6 @@
 <h1>Trabajo final del primer modulo desafio Latam</h1>
 
-<p>se crea la carpeta llamada latam-final, con carpeta asset do archivos de trabajos html y una hoja de estilos .css</p>
+<p>se crea la carpeta llamada latam-final, con carpeta asset dos archivos de trabajo html y una hoja de estilos .css</p>
 
 <h2>desarrollo</h2>
 <p>se desarrolla un curriculum vitae con secciones de educacion y experiencia mas un enlace a portafolio donde a traves de 
